@@ -47,3 +47,10 @@ Note: everything has to be staged AND committed before able to push.
 
 Note: cannot push if email is private...
 Change settings here: http://github.com/settings/emails   
+
+## Exercise: Add new script
+
+Created `testing_git.R`
+
+* Then `commit`
+* Then `push`
