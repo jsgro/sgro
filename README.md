@@ -45,4 +45,5 @@ Adding to the .gitignore list: click once one file (under Git tab) and then use 
 
 Note: everything has to be staged AND committed before able to push.
 
-
+Note: cannot push if email is private...
+Change settings here: http://github.com/settings/emails   
