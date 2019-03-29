@@ -57,3 +57,7 @@ Created `testing_git.R`
 
 
 ### A BAD BAD Change
+
+IF ALREADY COMMITED AND PUSHED: NEED LINE COMMAND!
+
+
