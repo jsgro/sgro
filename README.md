@@ -36,3 +36,7 @@ After doing this, you may fix the identity used for this commit with:
     git commit --amend --reset-author
 
  1 file changed, 14 insertions(+), 1 deletion(-)
+ 
+## IGNORING FILES: 
+
+Adding to the .gitignore list: click once one file (under Git tab) and then use wheel to choose "ignore"
