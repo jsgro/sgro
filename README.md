@@ -40,3 +40,9 @@ After doing this, you may fix the identity used for this commit with:
 ## IGNORING FILES: 
 
 Adding to the .gitignore list: click once one file (under Git tab) and then use wheel to choose "ignore"
+
+## Push changes to github
+
+Note: everything has to be staged AND committed before able to push.
+
+
