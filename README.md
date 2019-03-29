@@ -19,6 +19,8 @@ NOTE: this opens in `vi`
 
 `git commit --amend --reset-author`
 
+The latter seems not necessary (and does give an error....)
+
 fatal: not a git repository (or any of the parent directories): .git
 
 ## Still wrong:
